@@ -61,6 +61,15 @@ li.list-group-item {
     border: 0;
 }
 
+.form-control {
+    width: 60%;
+    margin-left: 20%;
+}
+
+span.label {
+    margin-bottom: 3px;
+}
+
 
 
 
